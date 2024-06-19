@@ -72,7 +72,6 @@ A full-stack web application for managing tasks, built with React, Node.js, and 
 
 - **Machine Learning Certification** by Stanford University on Coursera
 - **Deep Learning Specialization** by DeepLearning.AI
-- **Winner of XYZ Data Science Hackathon**
 
 ## Contact
 
