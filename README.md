@@ -5,7 +5,6 @@
 I'm a graduate student in Data Science at UC Berkeley with a passion for  AI/ML, full-stack development and data visualization.
 
 - 🌎 I'm based in Dallas, TX.
-- 🧠 I'm currently building a feed-forward fully connected neural network on Google Colab.
 - 🧠 I'm currently learning D3, JavaScript, machine learning.
 - 📫 You can contact me at [grgsandoval5@gmail.com](mailto:grgsandoval5@gmail.com).
 - 🌟 Pronouns: He/Him
