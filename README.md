@@ -21,7 +21,7 @@ I'm a graduate student in Data Science at UC Berkeley with a passion for AI/ML, 
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> NumPy</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/> Scikit-learn</td>
+    <td><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn](https://user-images.githubusercontent.com/1393562/215955264-71746035-3ef0-48c4-b8b1-68c63784e048.svg)" width="40" height="40"/> Scikit-learn</td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> TensorFlow</td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/> PyTorch</td>
     <td><img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="Pydantic" width="40" height="40"/> Pydantic</td>
