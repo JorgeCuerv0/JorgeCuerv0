@@ -22,10 +22,10 @@ I'm a graduate student in Data Science at UC Berkeley with a passion for AI/ML, 
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/> Scikit-learn</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/> PyTorch</td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> TensorFlow</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/> PyTorch</td>
     <td><img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="Pydantic" width="40" height="40"/> Pydantic</td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" alt="Hugging Face" width="40" height="40"/> Hugging Face</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40" height="40"/> Google Colab</td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> JavaScript</td>
@@ -35,11 +35,18 @@ I'm a graduate student in Data Science at UC Berkeley with a passion for AI/ML, 
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> Linux</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> Git</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> C#</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> C++</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> R</td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> MySQL</td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> PostgreSQL</td>
+  </tr>
+  <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> MongoDB</td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="40" height="40"/> AWS</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> Git</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
@@ -86,4 +93,6 @@ A full-stack web application for managing tasks, built with React, Node.js, and 
   - RESTful API integration
   - Responsive UI/UX
 
-## Achieve
+## Contact
+
+Feel free to reach out to me via email at [grgsandoval5@gmail.com](mailto:grgsandoval5@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/jorge-sandoval-a0020a114).
