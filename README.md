@@ -23,7 +23,6 @@ Welcome to my GitHub! I'm a Data Science graduate student at UC Berkeley with a 
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> NumPy</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40"/> Scikit-learn</td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> TensorFlow</td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/> PyTorch</td>
     <td><img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="Pydantic" width="40" height="40"/> Pydantic</td>
@@ -47,8 +46,8 @@ Welcome to my GitHub! I'm a Data Science graduate student at UC Berkeley with a 
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> MongoDB</td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="40" height="40"/> AWS</td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> Git</td>
-    <td></td>
-    <td></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> Kubernetes</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="40" height="40"/> Azure</td>
   </tr>
 </table>
 
@@ -101,7 +100,7 @@ Created a machine learning model to classify fruit ripeness based on image input
 
 ---
 
-### Adaptive Language Learning Quiz
+### [Adaptive Language Learning Quiz](https://github.com/JorgeCuerv0/MIDS-266-Adaptive-Language-Learning-Quiz-for-Newcomer-6th-Graders)
 
 Designed a gamified learning platform to teach and assess language skills in 6th graders.
 
