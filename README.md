@@ -1,14 +1,16 @@
 # Jorge Sandoval
 
-## Data Scientist and Educator
+## Data Scientist | AI/ML Enthusiast | Educator
 
-I'm a graduate student in Data Science at UC Berkeley with a passion for AI/ML, full-stack development, and data visualization.
+Welcome to my GitHub! I'm a Data Science graduate student at UC Berkeley with a strong passion for applying AI/ML to solve real-world problems, creating compelling data visualizations, and building full-stack solutions. My work bridges technical expertise with creativity, and I thrive on designing impactful and scalable solutions.
 
-- 🌎 I'm based in Dallas, TX.
-- 🧠 I'm currently learning Generative AI, NLP and Transformaer architecture.
-- 📫 You can contact me at [grgsandoval5@gmail.com](mailto:grgsandoval5@gmail.com).
-- 🌟 Pronouns: He/Him
-- ✈️ Fun fact: Avid traveler
+- 🌎 **Location**: Based in Dallas, TX
+- 🧠 **Currently Learning**: Generative AI, NLP, Transformer Architectures
+- 📫 **Contact Me**: [grgsandoval5@gmail.com](mailto:grgsandoval5@gmail.com)
+- 🌟 **Pronouns**: He/Him
+- ✈️ **Fun Fact**: Avid traveler with a love for exploring data and destinations alike!
+
+---
 
 ## Skills
 
@@ -50,49 +52,71 @@ I'm a graduate student in Data Science at UC Berkeley with a passion for AI/ML, 
   </tr>
 </table>
 
+---
+
 ## Projects
 
-### [Data Models and Inference API Project](https://github.com/JorgeCuerv0/lab-2-data-models-and-inference)
+### [Credit Card Fraud Detection Model Comparison](https://github.com/JorgeCuerv0/lab-2-data-models-and-inference)
 
-Developed a containerized API using FastAPI and Docker, integrating a machine learning model for inference.
+Compared classification models, including Logistic Regression, Neural Networks, and XGBoost, for credit card fraud detection. Evaluated model performance using metrics such as precision, recall, and ROC-AUC score.
 
-- **Technologies**: Python, FastAPI, Docker, Pydantic, Scikit-learn
+- **Technologies**: Python, Scikit-learn, TensorFlow, XGBoost
 - **Key Features**:
-  - API endpoints for health checks, predictions, and greetings
-  - Validation using Pydantic models
-  - Deployment using Docker containers
-  - Machine learning model integration with Scikit-learn
+  - Advanced data preprocessing and feature engineering
+  - Custom Neural Network design for improved recall
+  - Data-driven insights through rigorous evaluation metrics
 
-### [Neural Network on Google Colab](https://github.com/JorgeCuerv0/neural-network)
+---
 
-A feed-forward fully connected neural network built on Google Colab using TensorFlow. Achieved 95% accuracy on the MNIST dataset.
+### [Rising Global Temperature Visualizations](https://github.com/JorgeCuerv0/Rising-Global-Temperature-Visualizations)
 
-- **Technologies**: Python, TensorFlow, Google Colab
+Developed an interactive data visualization web app to highlight rising global temperatures across the US using Tableau.
+
+- **Technologies**: Tableau, HTML, JavaScript, CSS, Flask
 - **Key Features**:
-  - Data preprocessing and augmentation
-  - Model training and evaluation
-  - Hyperparameter tuning
+  - Interactive and dynamic charts for user engagement
+  - Storytelling with data to highlight climate change trends
 
-### [Interactive Data Visualization with D3.js](https://github.com/JorgeCuerv0/data-visualization)
+---
 
-An interactive data visualization project using D3.js to represent complex datasets.
+### [Spotify Content-Based Recommendation System](https://github.com/JorgeCuerv0/Spotify-content-based-recommendation-system)
 
-- **Technologies**: JavaScript, D3.js, HTML5, CSS3
+Built a content-based recommendation system to suggest similar tracks based on track names, artists, albums, and playlists.
+
+- **Technologies**: Python, Pandas, Scikit-learn
 - **Key Features**:
-  - Responsive design
-  - Interactive charts and graphs
-  - Real-time data updates
+  - Customized algorithm for personalized recommendations
+  - Efficiently processed and analyzed large music datasets
 
-### [Full-Stack Web Application](https://github.com/JorgeCuerv0/full-stack-app)
+---
 
-A full-stack web application for managing tasks, built with React, Node.js, and MongoDB.
+### [Fruit Ripeness Classifier](https://github.com/JorgeCuerv0/Fruit-Ripeness-Classifier)
 
-- **Technologies**: JavaScript, React, Node.js, Express, MongoDB
+Created a machine learning model to classify fruit ripeness based on image inputs.
+
+- **Technologies**: Python, TensorFlow, Keras
 - **Key Features**:
-  - User authentication and authorization
-  - RESTful API integration
-  - Responsive UI/UX
+  - Image preprocessing and augmentation
+  - Achieved ~90% accuracy on unseen test data
+
+---
+
+### Adaptive Language Learning Quiz
+
+Designed a gamified learning platform to teach and assess language skills in 6th graders.
+
+- **Technologies**: Python, TensorFlow, Keras
+- **Key Features**:
+  - Gamified approach for engagement
+  - Adaptive quiz mechanics for personalized learning
+
+---
 
 ## Contact
 
-Feel free to reach out to me via email at [grgsandoval5@gmail.com](mailto:grgsandoval5@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/jorge-sandoval-a0020a114).
+Feel free to connect with me:
+
+- 📫 Email: [grgsandoval5@gmail.com](mailto:grgsandoval5@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/jorge-sandoval-a0020a114](https://linkedin.com/in/jorge-sandoval-a0020a114)
+
+Looking forward to collaborating and making an impact together!
